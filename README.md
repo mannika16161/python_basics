@@ -6,5 +6,4 @@ Image and video analysis files covers some of basic concepts of cv2. A step by s
 
 Happy Learning!!
 
-# Contribute
-you can contribute by adding new python files of the concepts that have not been covered.
+
